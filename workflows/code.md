@@ -112,8 +112,10 @@ User thường QUÊN những thứ này. AI phải TỰ THÊM:
 
 ---
 
-## ⚠️ NEXT STEPS:
-*   Code xong → `/run` để chạy thử
-*   Cần test → `/test`
-*   Lỗi → `/debug`
-*   Cuối buổi → `/save-brain`
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Chạy /run để chạy thử ngay
+2️⃣ Cần test kỹ? /test
+3️⃣ Gặp lỗi? /debug
+4️⃣ Cuối buổi? /save-brain để lưu kiến thức
+```

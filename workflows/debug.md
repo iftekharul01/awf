@@ -110,7 +110,10 @@ Khi tìm ra lỗi, giải thích cho User bằng ngôn ngữ ĐỜI THƯỜNG:
 
 ---
 
-## ⚠️ NEXT STEPS:
-*   Lỗi đã sửa → `/test` để kiểm tra kỹ
-*   Lỗi vẫn còn → Tiếp tục `/debug`
-*   Sửa xong hỏng nặng hơn → `/rollback`
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Chạy /test để kiểm tra kỹ hơn
+2️⃣ Vẫn còn lỗi? Tiếp tục /debug
+3️⃣ Sửa xong nhưng hỏng nặng hơn? /rollback
+4️⃣ OK rồi? /save-brain để lưu lại
+```

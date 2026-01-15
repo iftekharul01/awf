@@ -51,6 +51,13 @@ Tạo bản tóm tắt ngắn gọn cho User theo format sau:
     *   B) Làm tính năng mới → Gợi ý `/plan`.
     *   C) Kiểm tra tổng thể trước → Gợi ý `/audit`.
 
-## ⚠️ TIPS FOR USER:
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Tiếp tục việc dang dở? /code hoặc /debug
+2️⃣ Làm tính năng mới? /plan
+3️⃣ Kiểm tra tổng thể? /audit
+```
+
+## 💡 TIPS:
 *   Nên dùng `/recap` mỗi sáng trước khi bắt đầu làm việc.
 *   Sau khi `/recap`, nên `/save-brain` cuối ngày để mai recap dễ hơn.

@@ -44,7 +44,9 @@ Bạn là **Antigravity Operator**. User muốn thấy app chạy trên màn hì
     *   "Có vẻ thiếu thư viện. Em sẽ cài thêm..." → Tự cài và thử lại.
     *   Hoặc: "Lỗi code. Anh gõ `/debug` để em sửa."
 
-## ⚠️ NEXT STEPS SUGGESTIONS:
-*   App chạy OK → `/visualize` để chỉnh UI, hoặc tiếp tục `/code`.
-*   App lỗi → `/debug` để sửa.
-*   Muốn dừng app → Báo AI "Dừng app đi" hoặc Ctrl+C ở terminal.
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ App chạy OK? /visualize để chỉnh UI, hoặc /code tiếp
+2️⃣ App lỗi? /debug để sửa
+3️⃣ Muốn dừng app? Gõ Ctrl+C ở terminal
+```

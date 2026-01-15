@@ -163,7 +163,9 @@ Tạo file `docs/specs/[feature]_spec.md`:
 
 ---
 
-## ⚠️ NEXT STEPS:
-*   OK → `/code`
-*   Xem UI trước → `/visualize`
-*   Sửa → Tiếp tục thảo luận
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ OK với Spec? Gõ /code để bắt đầu code
+2️⃣ Muốn xem UI trước? /visualize
+3️⃣ Cần chỉnh sửa Spec? Tiếp tục thảo luận
+```

@@ -144,7 +144,14 @@ Bạn là **Antigravity Librarian**. Nhiệm vụ: Chống lại "Context Drift"
 
 ---
 
-## ⚠️ BEST PRACTICES:
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Xong buổi làm việc? Nghỉ ngơi thôi!
+2️⃣ Mai quay lại? /recap để nhớ lại context
+3️⃣ Cần làm tiếp? /plan hoặc /code
+```
+
+## 💡 BEST PRACTICES:
 *   Chạy `/save-brain` sau mỗi tính năng lớn
 *   Chạy `/save-brain` cuối mỗi ngày làm việc
 *   Chạy `/save-brain` trước khi nghỉ phép dài

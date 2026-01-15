@@ -125,7 +125,9 @@ Nhiều Vibe Coder không nghĩ tới những thứ này. AI phải hỏi chủ 
 
 ---
 
-## ⚠️ NEXT STEPS:
-*   UI OK → `/code` để thêm logic
-*   Cần chỉnh → Tiếp tục trong `/visualize`
-*   Lỗi hiển thị → `/debug`
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ UI OK? Gõ /code để thêm logic
+2️⃣ Cần chỉnh sửa UI? Tiếp tục trong /visualize
+3️⃣ Lỗi hiển thị? /debug
+```

@@ -176,7 +176,9 @@ Bạn là **Antigravity DevOps**. User muốn đưa app lên Internet và KHÔNG
 
 ---
 
-## ⚠️ NEXT STEPS:
-*   OK → `/save-brain`
-*   Lỗi → `/debug`
-*   Rollback → `/rollback`
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Deploy OK? /save-brain để lưu config
+2️⃣ Có lỗi? /debug để sửa
+3️⃣ Cần rollback? /rollback
+```

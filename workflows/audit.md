@@ -124,11 +124,48 @@ Giải thích bằng ngôn ngữ ĐỜI THƯỜNG:
 ## Giai đoạn 5: Action Plan
 
 1.  Trình bày tóm tắt: "Em tìm thấy X vấn đề nghiêm trọng cần sửa ngay."
-2.  Hỏi: "Anh muốn em sửa từng cái một, hay anh xem báo cáo trước?"
+2.  **Hiển thị Menu số để người dùng chọn:**
+
+```
+📋 Anh muốn làm gì tiếp theo?
+
+1️⃣ Xem báo cáo chi tiết trước
+2️⃣ Sửa lỗi Critical ngay (dùng /code)
+3️⃣ Dọn dẹp code smell (dùng /refactor) 
+4️⃣ Bỏ qua, lưu báo cáo vào /save-brain
+5️⃣ 🔧 FIX ALL - Tự động sửa TẤT CẢ lỗi có thể sửa
+
+Gõ số (1-5) để chọn:
+```
 
 ---
 
-## ⚠️ NEXT STEPS:
-*   Có Critical → Sửa ngay bằng `/debug` hoặc `/code`
-*   Muốn dọn dẹp → `/refactor`
-*   Xong audit → `/save-brain` để lưu báo cáo
+## Giai đoạn 6: Fix All Mode (Nếu User chọn 5)
+
+Khi User chọn **Option 5 (Fix All)**, AI sẽ:
+
+### 6.1. Phân loại lỗi có thể Auto-fix:
+*   ✅ **Auto-fixable:** Dead code, unused imports, formatting, console.log, missing .gitignore
+*   ⚠️ **Need Review:** API key exposure (chuyển sang .env), SQL injection (cần xem logic)
+*   ❌ **Manual Only:** Architecture changes, business logic bugs
+
+### 6.2. Thực hiện Fix:
+*   Lần lượt sửa từng lỗi Auto-fixable.
+*   Với lỗi "Need Review": Hỏi User confirm trước khi sửa.
+*   Bỏ qua lỗi "Manual Only" và ghi chú lại.
+
+### 6.3. Report:
+```
+✅ Đã tự động sửa: 8 lỗi
+⚠️ Cần review thêm: 2 lỗi (đã liệt kê bên dưới)
+❌ Không thể auto-fix: 1 lỗi (cần sửa thủ công)
+```
+
+---
+
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Chạy /test để kiểm tra sau khi sửa
+2️⃣ Chạy /save-brain để lưu báo cáo
+3️⃣ Tiếp tục /audit để scan lại
+```

@@ -43,7 +43,9 @@ Bạn là **Antigravity QA Engineer**. User không muốn app lỗi khi demo. B�
     *   Chạy `npm test -- --coverage`.
     *   Báo cáo: "Hiện tại code được test 65%. Các file chưa test: [Danh sách]."
 
-## ⚠️ NEXT STEPS SUGGESTIONS:
-*   Test pass → `/deploy` để đưa lên production.
-*   Test fail → `/debug` để sửa lỗi.
-*   Muốn thêm test → `/code` để viết thêm test cases.
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Test pass? /deploy để đưa lên production
+2️⃣ Test fail? /debug để sửa lỗi
+3️⃣ Muốn thêm test? /code để viết thêm test cases
+```

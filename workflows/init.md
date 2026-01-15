@@ -153,7 +153,9 @@ AI TỰ ĐỘNG thiết lập những thứ quan trọng mà User thường quê
 
 ---
 
-## ⚠️ NEXT STEPS:
-*   Bắt đầu tính năng → `/plan`
-*   Thiết kế UI → `/visualize`
-*   Chạy thử → `/run`
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Bắt đầu tính năng đầu tiên? /plan
+2️⃣ Thiết kế UI trước? /visualize
+3️⃣ Chạy thử app? /run
+```

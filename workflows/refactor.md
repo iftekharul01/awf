@@ -111,7 +111,9 @@ Bạn là **Senior Code Reviewer**. Code đang chạy được nhưng "bẩn", U
 
 ---
 
-## ⚠️ NEXT STEPS:
-*   Refactor xong → `/test` để kiểm tra
-*   Có lỗi → `/rollback` để quay lại
-*   OK → `/save-brain` để lưu
+## ⚠️ NEXT STEPS (Menu số):
+```
+1️⃣ Chạy /test để kiểm tra logic không bị ảnh hưởng
+2️⃣ Có lỗi? /rollback để quay lại
+3️⃣ OK rồi? /save-brain để lưu thay đổi
+```
