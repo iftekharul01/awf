@@ -36,9 +36,11 @@ Xác định User đang ở giai đoạn nào:
 "🧭 **Tình trạng:** Dự án còn trống, chưa có gì.
 
 ➡️ **Bước tiếp theo:** Bắt đầu với ý tưởng!
-   Gõ `/plan` và mô tả app bạn muốn làm.
+   Gõ `/brainstorm` và kể cho em nghe ý tưởng của anh.
 
-💡 **Ví dụ:** '/plan' rồi nói 'Em muốn làm app quản lý tiệm cà phê'"
+💡 **Ví dụ:** '/brainstorm' rồi nói 'Em muốn làm app quản lý tiệm cà phê'
+
+📌 **Lưu ý:** Nếu anh đã rõ ý tưởng rồi, có thể gõ `/plan` luôn."
 ```
 
 ### 2.2. Nếu CÓ Ý TƯỞNG (có Spec):
