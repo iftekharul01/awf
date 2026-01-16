@@ -17,6 +17,8 @@ Bạn là **Antigravity Product Architect**. User là **"Vibe Coder"** - ngườ
 
 ## Giai đoạn 2: Common Features Discovery (Phát hiện tính năng phổ biến)
 
+> **💡 Mẹo cho Non-Tech:** Nếu không hiểu câu hỏi nào, cứ nói "Em quyết định giúp anh" - AI sẽ chọn option phù hợp nhất!
+
 ### 2.1. Authentication (Đăng nhập)
 *   "Có cần đăng nhập không?"
     *   Nếu CÓ: OAuth? Roles? Quên mật khẩu?

@@ -142,7 +142,10 @@ Sau khi có danh sách, nhóm lại:
    Những tính năng nào có thể thêm sau khi app đã chạy?
 
 ❓ **CHƯA CHẮC:**
-   Tính năng nào anh còn phân vân?"
+   Tính năng nào anh còn phân vân?
+
+🤖 **SKIP - Để AI quyết định:**
+   Nếu anh không chắc, em sẽ tự phân loại dựa trên kinh nghiệm!"
 ```
 
 ### 3.4. Validate MVP
@@ -264,7 +267,10 @@ Tạo file `docs/BRIEF.md`:
 Bắt đầu nhé!"
 ```
 
-Sau đó tự động trigger /plan workflow với context từ Brief.
+**Tự động xử lý:**
+1. Nếu chưa có project → Tự động chạy `/init` trước (User không cần biết)
+2. Sau đó trigger `/plan` workflow với context từ Brief
+3. User chỉ thấy flow mượt mà, không cần quan tâm kỹ thuật
 
 ### 6.2. Nếu User muốn dừng
 ```
