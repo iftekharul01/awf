@@ -37,8 +37,8 @@
 
 ## ✅ The Solution: AWF 4.0
 
-**AWF is a suite of 17+ Global Workflows for everyone - from beginners to pros.**
-*AWF là bộ 17+ lệnh Global cho mọi người - từ người mới đến chuyên gia.*
+**AWF is a suite of 18 Global Workflows for everyone - from beginners to pros.**
+*AWF là bộ 18 lệnh Global cho mọi người - từ người mới đến chuyên gia.*
 
 **What's New in v4.0:**
 
@@ -307,4 +307,4 @@ echo '{"technical":{"technical_level":"newbie"}}' > .brain/preferences.json
 
 *Built by Antigravity in Vibe Coding Mode.*
 *AWF v4.0 - For everyone, from beginners to pros.*
-*5 Hidden Skills · 12 Non-Tech Workflows · 17+ Commands*
+*5 Hidden Skills · 12 Non-Tech Workflows · 18 Commands*
