@@ -3,7 +3,7 @@
   "$id": "https://awf.dev/schemas/preferences.schema.json",
   "title": "AWF User Preferences Schema",
   "description": "User preferences for AI communication and working style",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "object",
   "properties": {
     "updated_at": {
@@ -57,6 +57,12 @@
           "enum": ["mvp", "production", "enterprise"],
           "default": "production",
           "description": "Output quality level"
+        },
+        "technical_level": {
+          "type": "string",
+          "enum": ["newbie", "basic", "technical"],
+          "default": "basic",
+          "description": "User technical proficiency level for language adaptation"
         }
       }
     },
